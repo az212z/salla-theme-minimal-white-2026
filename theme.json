@@ -1,0 +1,17 @@
+{
+  "name": "Minimal White",
+  "slug": "salla-theme-minimal-white-2026",
+  "version": "1.0.0",
+  "author": "Nadir",
+  "description": "تصميم نظيف سريع للمتاجر العامة",
+  "rtl": true,
+  "entry": "templates/home.html",
+  "assets": {
+    "css": [
+      "assets/css/style.css"
+    ],
+    "js": [
+      "assets/js/app.js"
+    ]
+  }
+}

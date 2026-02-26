@@ -1,0 +1,20 @@
+{
+  "name": {
+    "ar": "Minimal White",
+    "en": "Minimal White"
+  },
+  "repository": "https://github.com/az212z/salla-theme-minimal-white-2026",
+  "author_email": "alialamer1418asd@gmail.com",
+  "description": {
+    "ar": "تصميم نظيف سريع للمتاجر العامة",
+    "en": "تصميم نظيف سريع للمتاجر العامة"
+  },
+  "features": [
+    "fonts",
+    "color",
+    "filters",
+    "breadcrumb"
+  ],
+  "settings": [],
+  "components": []
+}
