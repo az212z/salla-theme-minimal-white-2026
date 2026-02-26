@@ -1,9 +1,9 @@
 {
-  "name": "Minimal White",
-  "slug": "salla-theme-minimal-white-2026",
-  "version": "1.0.0",
+  "name": "Minimal White 2026",
+  "slug": "minimal-white-2026",
+  "version": "1.0.1",
   "author": "Nadir",
-  "description": "تصميم نظيف سريع للمتاجر العامة",
+  "description": "Professional Salla theme: Minimal White 2026",
   "rtl": true,
   "entry": "templates/home.html",
   "assets": {

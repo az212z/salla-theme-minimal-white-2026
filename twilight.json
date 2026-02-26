@@ -1,13 +1,14 @@
 {
   "name": {
-    "ar": "Minimal White",
-    "en": "Minimal White"
+    "ar": "ثيم Minimal White 2026",
+    "en": "Minimal White 2026 Theme"
   },
   "repository": "https://github.com/az212z/salla-theme-minimal-white-2026",
   "author_email": "alialamer1418asd@gmail.com",
+  "support_url": "https://github.com/az212z/salla-theme-minimal-white-2026/issues",
   "description": {
-    "ar": "تصميم نظيف سريع للمتاجر العامة",
-    "en": "تصميم نظيف سريع للمتاجر العامة"
+    "ar": "ثيم احترافي لمتجر سلة: Minimal White 2026",
+    "en": "Professional Salla theme: Minimal White 2026"
   },
   "features": [
     "fonts",
